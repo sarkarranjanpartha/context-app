@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Context App
+          Context App Example
         </a>
       </header>
     </div>
